@@ -1,0 +1,29 @@
+@media (max-width: 1000px) {
+  body .principal div {
+  }
+  h1,
+  h4 {
+    margin-left: 35%;
+  }
+}
+
+@media (min-height: 700px) {
+  body .principal div {
+  }
+
+  .foto_perfil {
+    position: relative;
+    border-radius: 50%;
+    border: 1px solid black;
+    box-shadow: 3px 3px 10px black;
+    margin-top: 150px;
+    width: 50%;
+    height: 25%;
+  }
+}
+
+@media (max-width: 700px) {
+}
+
+@media (max-height: 631px) {
+}
